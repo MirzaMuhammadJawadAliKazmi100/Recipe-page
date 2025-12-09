@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f3e5d8;
+      font-family: "Heebo", sans-serif;
+}
+.main{
+    width: 500px;
+    height: auto;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    padding: auto 0;
+}
+img{
+    width: 90%;
+    position: relative;
+    top: 20px;
+left: 30px;
+    border-radius: 8px;
+}
+.container{
+    position: relative;
+    left: 30px;
+    
+}
+.cont-flex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 20px;
+}
+.container3{
+    width: 80%;
+}
+.p1{
+ width: 100%;
+}
+.container2{
+    background-color: #ffeff9;
+}
+h3{
+    color: #795348;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    position: relative;
+    left: 15px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+position: relative;
+left: 80%;
+top: -143px;
+font-weight: 500;
+color: #7f594b;
+}
+
+ul{
+    list-style-type: none;
+
+}
+.last{
+    position: relative;
+    left: -10%;
+    font-size: 20px;
+    font-weight: 300;
+}
+.hr1{
+    position: relative;
+    top: -250px;
+left:5%
+}
+.hr2{
+    position: relative;
+    top: -228px;
+left:5%
+}
+.hr3{
+    position: relative;
+    top: -215px;
+left:5%
+}
